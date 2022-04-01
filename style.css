@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+a{
+    color: black;
+    text-decoration: none;
+    float: right;
+    list-style: none;
+    margin-top: 80px;
+    padding: 5px 15px;
+    font-family: "Verdana","sans-serif";
+    font-size: 20px;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+h2{
+    text-align:left;
+    align-items: flex-end;
+    margin: auto;
+    color: blue;
+    text-decoration: underline;
+    text-shadow: 2em;
+    text-decoration-color: black;
+    font-size: 80px;
+}
